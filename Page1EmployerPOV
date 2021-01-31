@@ -1,16 +1,12 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Wikitechy default attribute</title>
-    </head>
-    <body>
-        <h2>HTML default attribute with example.</h2>
-        <video width="350" height="300" controls>
-            <source src="hibiscus.mp4" type="video/mp4">
-            <track src="subtitles_sp.vtt" kind="subtitles" srclang="es" 
-            label="Spanish">
-            <track src="subtitles_en.vtt" kind="subtitles" srclang="en" 
-            label="English" default>
-        </video>
-    </body>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
 </html>
