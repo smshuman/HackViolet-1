@@ -3,10 +3,24 @@
 <head>
 <title>Page Title</title>
 </head>
+
 <body>
 
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1>My Website</h1>
+<p>A website created by me.</p>
 
 </body>
 </html>
